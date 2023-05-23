@@ -4,7 +4,7 @@
     </a>
 </div> 
 
-# HelloWorld on Spring Boot with Swagger
+# Spring Boot with OpenAPI multi-file specification
 
 
 ## Feature tags
@@ -19,12 +19,7 @@
 
 ## Direct ancestor
 
-- [- swagger](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
-
-## Direct descendant
-
-- [+ actuator](https://github.com/AlexanderLapygin/spring-boot-actuator#readme)
-- [+ flyway, postgres, spring-data-jpa, testcontainers, todo](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
+- [- multifile-specification](https://github.com/AlexanderLapygin/spring-boot-swagger#readme)
 
 ---
 
