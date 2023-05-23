@@ -6,10 +6,12 @@
 
 # Spring Boot with OpenAPI multi-file specification
 
+UNDER DEVELOPMENT
 
 ## Feature tags
 
 - maven
+- multifile-specification
 - spring-boot
 - starter
 - swagger
