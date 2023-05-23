@@ -4,7 +4,7 @@
     </a>
 </div> 
 
-# Spring Boot with OpenAPI multi-file specification
+# Spring Boot with OpenAPI multifile specification
 
 UNDER DEVELOPMENT
 
